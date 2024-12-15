@@ -2,8 +2,6 @@
 Formações: 
 ## T-Academy Digital - Full Stack
 
-## ProWhey - IA Generativa
-
 ## T-Academy Cloud 200 horas/aula - Ao Vivo
 - Aulas de Seg a Sex: 14h às 17h 
 - Período da Formação: 03/09/24 a 29/11/24
@@ -29,6 +27,13 @@ Cloud:
 - SQL
 - AWS
 
-Dados do Curso:
-- Assíncrono: 400 horas/aula
+## ProWhey - IA Generativa 06 horas/aula - EAD
+Cursos:
+
+-  A história da IA
+-  Inteligência Artificial Generativa
+-  A evolução das buscas online
+-  Como ser mais produtivo usando o Bing Chat
+-  Ética em IA
+-  COPILOTO
 
