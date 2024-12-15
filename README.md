@@ -1,6 +1,6 @@
 # ProWhey T-Systems Academy
 Formações: 
-## T-Academy Digital - Full Stack
+## T-Academy Digital - Java & Angular
 
 ## T-Academy Cloud 200 horas/aula - Ao Vivo
 - Aulas de Seg a Sex: 14h às 17h 
